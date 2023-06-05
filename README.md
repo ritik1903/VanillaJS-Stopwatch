@@ -2,7 +2,7 @@
 # StopWatch
 A simple Stopwatch developed using Vanilla JS and styled using CSS, which start, stop and reset the timer. 
 
-The link to the final hosted webpage is : https://suraj-bhan-yadav.github.io/StopWatch/
+The link to the final hosted webpage is : https://ritik1903.github.io/VanillaJS-Stopwatch/
 
 
 
